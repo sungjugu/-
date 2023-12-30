@@ -1,0 +1,1 @@
+python preprocessing.py %yearmonth% > ../Log/preprocessing_log.log 2>&1

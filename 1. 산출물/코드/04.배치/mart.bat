@@ -1,0 +1,1 @@
+python mart.py %yearmonth% > ../Log/mart_log.log 2>&1

@@ -1,0 +1,1 @@
+python model2.py %yearmonth% > ../Log/model_log.log 2>&1
